@@ -1,4 +1,4 @@
-## Joint Itemset Hunting for yielding Useful iNformation (JIHYUN) programs written in Rust
+## Joint Itemset Hunting for Yielding Useful iNformation (JIHYUN) programs written in Rust
 
 * Apriori: Implemented an improbved Apriori algorithm
 
