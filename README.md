@@ -1,6 +1,6 @@
 ## Joint Itemset Hunting for Yielding Useful iNformation (JIHYUN) programs written in Rust
 
-* Apriori: Implemented an improbved Apriori algorithm
+* Apriori: Implemented an improved Apriori algorithm
 
 * FP-Growth: Implemented a conventional FP-Growth algorithm
 
